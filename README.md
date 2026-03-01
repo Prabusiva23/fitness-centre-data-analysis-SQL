@@ -1,6 +1,6 @@
 # Fitness Centre Data Analysis using SQL
 
-##Project Overview
+Project Overview
 This project is a SQL-based database system designed to manage and analyze data for multiple fitness centres.  
 It demonstrates practical implementation of relational database concepts using MySQL.
 
